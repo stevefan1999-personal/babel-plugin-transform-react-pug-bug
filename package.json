@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-react-pug": "^6.0.0",
+    "parcel-bundler": "^1.9.7",
+    "typescript": "^2.9.2"
+  },
+  "scripts": {
+    "dev": "parcel ./index.html"
+  }
+}
